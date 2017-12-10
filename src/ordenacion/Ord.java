@@ -48,6 +48,7 @@ public class Ord{
                 break;
             default:
                 System.out.println("Solo números entre 1 y 5");
+                break;
         }
 
         System.out.print("Array ordenado: ");
